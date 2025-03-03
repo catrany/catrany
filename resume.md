@@ -2,6 +2,8 @@ Resume:
 
 I'm Yonatan Catran
 First Year @ Northeastern University
+Major: Computer Science and Game Development
+Class of 2028!
 
 Previous Work Experience:
 - ...
